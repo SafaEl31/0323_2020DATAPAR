@@ -1,6 +1,6 @@
-# Project Title
+# Bank marketing
 
-Bank marketing
+
 
 ## Getting Started
 
