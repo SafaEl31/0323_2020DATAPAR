@@ -39,8 +39,8 @@ In this section, data visualization lead us to determine the most polluated coun
 To manipulate data and explore some hidden information, clustering is the ideal process. Elbow method used to find the best number of clusters gives us 5 clusters.
 
 Applying clusters to the dataset allow us to have 2 main set of clusters.
-Set1: DATA ghatered during 2020 in cluster 1: All those data are related to the same city Delhi in 2020 and all kind of pollutant is recorded averaged over 1/4 hour.
-Set2: DATA ghatered during 2020 in cluster 2: All those data are related to the same country austria and averaged over an hour in 2020.
+* Set1: DATA ghatered during 2020 in cluster 1: All those data are related to the same city Delhi in 2020 and all kind of pollutant is recorded averaged over 1/4 hour.
+* Set2: DATA ghatered during 2020 in cluster 2: All those data are related to the same country austria and averaged over an hour in 2020.
 
 
 
