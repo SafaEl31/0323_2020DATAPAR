@@ -8,7 +8,7 @@ The purpose of this study is to review the current situation of air pollution.
 This phenomena refers to the release of pollutants into the air that are detrimental to human health and the planet as a whole.
 It also contributes to the depletion of the ozone layer, which protects the Earth from the sun's UV rays. 
 
-This analysis aims to describe the level of threat that the humanity is facing, locate the most harmfull area in the word and try to do some predictive analysis. 
+This analysis aims to describe the level of threat that the humanity is facing, locate the most harmfull area in the world.
 
 
 ## Slides presentation
