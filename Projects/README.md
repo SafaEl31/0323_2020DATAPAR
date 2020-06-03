@@ -4,5 +4,5 @@
 
 ## Getting Started
 
-Personal projects done through a data analysis & machine learning cohort
+Personal projects done through a data analysis & machine learning cohort at ironhack
 
